@@ -57,10 +57,10 @@ header .heading{
   color: #fff
 }
 
-msin{
+main{
   width: 800px;
   display: flex;
-  justify-content:center;
+  justify-content: center;
   margin: 0 auto;
   padding: 70px 0;
 }
