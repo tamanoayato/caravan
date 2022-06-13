@@ -96,7 +96,11 @@ main{
 
 .blog-text{
   padding-top: 25px;
-  padding-left: 30px
+  padding-left: 30px;
+}
+
+.blog-text-heading{
+  padding-bottom: 15px;
 }
 
 
